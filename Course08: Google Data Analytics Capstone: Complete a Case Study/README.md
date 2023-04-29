@@ -1,9 +1,8 @@
-Creating a case study
-Roadmap
+Creating a case study Roadmap
 
 ----------------------------------------------------------------------------------------------------------
 
-ASK:->
+### ASK:->
 
 Guiding questions
 What topic are you exploring?
@@ -24,7 +23,7 @@ Explore the data and establish metrics
 
 -----------------------------------------------------------------------------------------------------------
 
-Prepare:->
+### Prepare:->
 
 Guiding questions
 Where is your data located?
@@ -45,7 +44,7 @@ Determine the credibility of the data
 
 -----------------------------------------------------------------------------------------------------------
 
-Process:->
+### Process:->
 
 Guiding questions
 What tools are you choosing and why?
@@ -64,7 +63,7 @@ Choose your tools
 
 -----------------------------------------------------------------------------------------------------------
 
-Analyze:->
+### Analyze:->
 
 Guiding questions
 How should you organize your data to perform analysis on it?
@@ -82,7 +81,7 @@ Identify trends and relationships
 
 -----------------------------------------------------------------------------------------------------------
 
-Share:->
+### Share:->
 
 Guiding questions
 What story does your data tell?
@@ -101,7 +100,7 @@ Ensure your work is accessible to your audience
 
 -----------------------------------------------------------------------------------------------------------
 
-Act:->
+### Act:->
 
 Guiding questions
 What is your final conclusion based on your analysis?
