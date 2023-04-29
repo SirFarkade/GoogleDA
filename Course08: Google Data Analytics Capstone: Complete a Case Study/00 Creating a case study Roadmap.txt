@@ -3,7 +3,7 @@ Roadmap
 
 ----------------------------------------------------------------------------------------------------------
 
-ASK phase:->
+ASK:->
 
 Guiding questions
 What topic are you exploring?
@@ -24,6 +24,7 @@ Explore the data and establish metrics
 
 -----------------------------------------------------------------------------------------------------------
 
+Prepare:->
 
 Guiding questions
 Where is your data located?
@@ -44,6 +45,7 @@ Determine the credibility of the data
 
 -----------------------------------------------------------------------------------------------------------
 
+Process:->
 
 Guiding questions
 What tools are you choosing and why?
@@ -62,6 +64,7 @@ Choose your tools
 
 -----------------------------------------------------------------------------------------------------------
 
+Analyze:->
 
 Guiding questions
 How should you organize your data to perform analysis on it?
@@ -79,6 +82,7 @@ Identify trends and relationships
 
 -----------------------------------------------------------------------------------------------------------
 
+Share:->
 
 Guiding questions
 What story does your data tell?
@@ -97,6 +101,7 @@ Ensure your work is accessible to your audience
 
 -----------------------------------------------------------------------------------------------------------
 
+Act:->
 
 Guiding questions
 What is your final conclusion based on your analysis?
@@ -113,5 +118,3 @@ Upload to your portfolio
 
 
 -----------------------------------------------------------------------------------------------------------
-
-
