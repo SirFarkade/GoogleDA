@@ -2,7 +2,7 @@ Creating a case study Roadmap
 
 ----------------------------------------------------------------------------------------------------------
 
-### [ASK:->](https://github.com/VaibhavFarkade/GoogleDA/tree/main/Course08:%20Google%20Data%20Analytics%20Capstone:%20Complete%20a%20Case%20Study/01%20Ask)
+### [ASK:->](/01 Ask/Readme.md)
 
 Guiding questions
 What topic are you exploring?
