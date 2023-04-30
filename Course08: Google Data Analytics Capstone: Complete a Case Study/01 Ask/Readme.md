@@ -4,6 +4,14 @@ This directory contains two PDFs:->
 
 [Scope of Work](https://github.com/VaibhavFarkade/GoogleDA/blob/main/Course08:%20Google%20Data%20Analytics%20Capstone:%20Complete%20a%20Case%20Study/01%20Ask/Scope%20of%20Work.pdf) :-> It is very important for data analysts to contextualize their data, this topic helps us understand "What you need to know?"
 
+Ask Guiding questions
+● What is the problem you are trying to solve? 
+● How can your insights drive business decisions? 
+
+Key tasks 
+1. Identify the business task 
+2. Consider key stakeholders Deliverable A clear statement of the business task
+
 ### The following questions arise about the available data:->
 
 
