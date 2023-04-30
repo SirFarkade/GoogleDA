@@ -2,7 +2,7 @@ Creating a case study Roadmap
 
 ----------------------------------------------------------------------------------------------------------
 
-### [ASK:->](./01 Ask)
+### ASK:->
 
 Guiding questions
 What topic are you exploring?
@@ -23,7 +23,7 @@ Explore the data and establish metrics
 
 -----------------------------------------------------------------------------------------------------------
 
-### [Prepare:->](./02 Prepare)
+### Prepare:->
 
 Guiding questions
 Where is your data located?
@@ -44,7 +44,7 @@ Determine the credibility of the data
 
 -----------------------------------------------------------------------------------------------------------
 
-### [Process:->](./03 Process)
+### Process:->
 
 Guiding questions
 What tools are you choosing and why?
@@ -63,7 +63,7 @@ Choose your tools
 
 -----------------------------------------------------------------------------------------------------------
 
-### [Analyze:->](./04 Analyze)
+### Analyze:->
 
 Guiding questions
 How should you organize your data to perform analysis on it?
@@ -81,7 +81,7 @@ Identify trends and relationships
 
 -----------------------------------------------------------------------------------------------------------
 
-### [Share:->](./05 Share)
+### Share:->
 
 Guiding questions
 What story does your data tell?
@@ -100,7 +100,7 @@ Ensure your work is accessible to your audience
 
 -----------------------------------------------------------------------------------------------------------
 
-### [Act:->](06 Act)
+### Act:->
 
 Guiding questions
 What is your final conclusion based on your analysis?
@@ -115,5 +115,6 @@ Share next steps with your stakeholders
 Determine if more data could give you new insights
 Upload to your portfolio
 
+[Click Here](./06 Act) to explore Act Phase
 
 -----------------------------------------------------------------------------------------------------------
