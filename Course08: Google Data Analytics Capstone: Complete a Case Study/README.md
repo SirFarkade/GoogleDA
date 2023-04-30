@@ -2,7 +2,7 @@ Creating a case study Roadmap
 
 ----------------------------------------------------------------------------------------------------------
 
-### [ASK:->](/01 Ask/Readme.md)
+### [ASK:->](https://github.com/VaibhavFarkade/GoogleDA/tree/main/Course08:%20Google%20Data%20Analytics%20Capstone:%20Complete%20a%20Case%20Study/01%20Ask)
 
 Guiding questions
 What topic are you exploring?
@@ -20,6 +20,8 @@ Identify the problem
 Determine key stakeholders
 Explore the data and establish metrics
 
+
+[Click Here](https://github.com/VaibhavFarkade/GoogleDA/tree/main/Course08:%20Google%20Data%20Analytics%20Capstone:%20Complete%20a%20Case%20Study/01%20Ask) to explore Ask Phase!
 
 -----------------------------------------------------------------------------------------------------------
 
