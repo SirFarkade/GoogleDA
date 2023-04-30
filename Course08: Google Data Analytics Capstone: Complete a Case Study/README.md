@@ -2,7 +2,7 @@ Creating a case study Roadmap
 
 ----------------------------------------------------------------------------------------------------------
 
-### [ASK:->](https://github.com/VaibhavFarkade/GoogleDA/tree/main/Course08:%20Google%20Data%20Analytics%20Capstone:%20Complete%20a%20Case%20Study/01%20Ask)
+### ASK:->
 
 Guiding questions
 What topic are you exploring?
@@ -22,6 +22,7 @@ Explore the data and establish metrics
 
 
 [Click Here](https://github.com/VaibhavFarkade/GoogleDA/tree/main/Course08:%20Google%20Data%20Analytics%20Capstone:%20Complete%20a%20Case%20Study/01%20Ask) to explore Ask Phase!
+
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -43,6 +44,8 @@ Identify how it’s organized
 Sort and filter the data
 Determine the credibility of the data
 
+[Click Here](https://github.com/VaibhavFarkade/GoogleDA/tree/main/Course08:%20Google%20Data%20Analytics%20Capstone:%20Complete%20a%20Case%20Study/02%20Prepare) to explore Prepare Phase!
+
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -61,6 +64,8 @@ Check the data for errors
 Transform the data into the right type
 Document the cleaning process
 Choose your tools
+
+[Click Here](https://github.com/VaibhavFarkade/GoogleDA/tree/main/Course08:%20Google%20Data%20Analytics%20Capstone:%20Complete%20a%20Case%20Study/03%20Process) to explore Process Phase!
 
 
 -----------------------------------------------------------------------------------------------------------
@@ -81,6 +86,8 @@ Organize and format your data
 Perform calculations
 Identify trends and relationships
 
+[Click Here](https://github.com/VaibhavFarkade/GoogleDA/tree/main/Course08:%20Google%20Data%20Analytics%20Capstone:%20Complete%20a%20Case%20Study/04%20Analyze) to explore Analyze Phase!
+
 -----------------------------------------------------------------------------------------------------------
 
 ### Share:->
@@ -99,6 +106,8 @@ Create effective data visualizations
 Present your findings
 Ensure your work is accessible to your audience
 
+[Click Here](https://github.com/VaibhavFarkade/GoogleDA/tree/main/Course08:%20Google%20Data%20Analytics%20Capstone:%20Complete%20a%20Case%20Study/05%20Share) to explore Share Phase!
+
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -116,6 +125,8 @@ After this, your case study will be complete. But you can use these steps again 
 Share next steps with your stakeholders
 Determine if more data could give you new insights
 Upload to your portfolio
+
+[Click Here](https://github.com/VaibhavFarkade/GoogleDA/tree/main/Course08:%20Google%20Data%20Analytics%20Capstone:%20Complete%20a%20Case%20Study/06%20Act) to explore Act Phase!
 
 
 -----------------------------------------------------------------------------------------------------------
