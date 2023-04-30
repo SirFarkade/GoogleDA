@@ -1,6 +1,6 @@
 Along with the listed 5 files, 2 other files were also used which couldn't be uploaded due to size limit of github.
 
-The other two files are:
+The other two files are:->
 - heartrate_seconds_merged
 - minuteMETsNarrow_merged
 
