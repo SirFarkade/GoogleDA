@@ -115,6 +115,6 @@ Share next steps with your stakeholders
 Determine if more data could give you new insights
 Upload to your portfolio
 
-[Click Here](./06 Act) to explore Act Phase
+[Click Here]([/06 Act](https://github.com/VaibhavFarkade/GoogleDA/tree/main/Course08:%20Google%20Data%20Analytics%20Capstone:%20Complete%20a%20Case%20Study/01%20Ask)) to explore Act Phase
 
 -----------------------------------------------------------------------------------------------------------
