@@ -1,4 +1,10 @@
-### The following questions pop-up about the available data:->
+This directory contains two PDFs:->
+
+[SMART Questions](https://github.com/VaibhavFarkade/GoogleDA/blob/main/Course08:%20Google%20Data%20Analytics%20Capstone:%20Complete%20a%20Case%20Study/01%20Ask/SMART%20Questions.pdf) :-> The second course covers this topic on how and what types of questions should be asked.
+
+[Scope of Work](https://github.com/VaibhavFarkade/GoogleDA/blob/main/Course08:%20Google%20Data%20Analytics%20Capstone:%20Complete%20a%20Case%20Study/01%20Ask/Scope%20of%20Work.pdf) :-> It is very important for data analysts to contextualize their data, this topic helps us understand "What you need to know?"
+
+### The following questions arise about the available data:->
 
 
 1. How does the amount of physical activity vary among women who use Bellabeat wearables?
